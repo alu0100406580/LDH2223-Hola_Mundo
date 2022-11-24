@@ -1,0 +1,56 @@
+@options
+@packages
+-classpath
+'/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/classes:/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/test-classes:/home/phillipmc/.m2/repository/junit/junit/4.11/junit-4.11.jar:/home/phillipmc/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-app 1.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' '/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'my-app 1.0-SNAPSHOT Test API'
+es.ull.app
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/classes = 1668076608107
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/test-classes = 1668076608231
+/home/phillipmc/.m2/repository/junit/junit/4.11/junit-4.11.jar = 1667473109880
+/home/phillipmc/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar = 1667473109960
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/src/test/java = 1667472942920
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/overview-tree.html = 1668080990609
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/allclasses.html = 1668080990629
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/jquery-ui.overrides.css = 1668080990645
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/element-list = 1668080990581
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/allpackages-index.html = 1668080990625
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/member-search-index.zip = 1668080990617
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/search.js = 1668080990637
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/index.html = 1668080990633
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/member-search-index.js = 1668080990617
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/allclasses-index.html = 1668080990621
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/index-all.html = 1668080990617
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/package-search-index.zip = 1668080990617
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/type-search-index.js = 1668080990617
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/package-search-index.js = 1668080990613
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/type-search-index.zip = 1668080990617
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/script.js = 1668080990637
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/deprecated-list.html = 1668080990629
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/help-doc.html = 1668080990633
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/stylesheet.css = 1668080990637
+/home/phillipmc/NAS/Clases/Clases 2022-23/Laboratorio/proyectos/maven/primerCodigoEjemplo/my-app/target/site/testapidocs/constant-values.html = 1668080990593
